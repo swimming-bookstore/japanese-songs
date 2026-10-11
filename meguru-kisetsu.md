@@ -27,6 +27,8 @@
 
 ## はかなく<ruby>散<rt>ち</rt></ruby>ってゆく　<ruby>風<rt>かぜ</rt></ruby>の<ruby>指<rt>ゆび</rt></ruby><ruby>先<rt>さき</rt></ruby>ふれて
 
+短暫地散去　被風的指尖碰到
+
 ### はかなく<ruby>散<rt>ち</rt></ruby>ってゆく
 
 | Word | Meaning |
